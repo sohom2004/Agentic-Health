@@ -1,0 +1,15 @@
+# Environment files
+.env
+
+# Document files
+*.docx
+*.pdf
+*.odt
+*.png
+*.csv
+*.xlsx
+*.ipynb
+
+medical-knowledge-base/medical-o1-dataset.csv
+medical-knowledge-base/unlabeled_PUBMEDQA.csv
+medical-knowledge-base/artificial_PUBMEDQA.csv
